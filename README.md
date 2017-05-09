@@ -4,5 +4,5 @@ This is the parser and lexer assignment in NUS compiler course. A Java-like lang
 
 ---
 
-Compilation: run make at this directory
-Running: ./mOOL_parser <directory of test program>
+Compilation: run `make` at this directory  
+Running: `./mOOL_parser <directory of test program>`
