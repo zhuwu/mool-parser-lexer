@@ -1,0 +1,64 @@
+class Main {
+
+Void main(Int i, Int a, Int b,Int d){
+   while(true){
+      b = 340 ;
+      t1 = t2 ;
+   }
+
+   /* Test test; */
+   // c = "abcdefg";
+   c = "";
+   d = "ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890abcdefghijklmnopqrstuvwxyz ~`!@#$%^&*()-_=+[]{}|;:',./<>?";
+   e = "\"\\\n\r\t\b";
+   f = "\x00\x0F\x5d\x7F\000\127\093\110\045";
+   g = "\\W3453\x7FTwfrsddf/*f45ioio*/ 34\n\t\r\"\b\x45\097'//";  // comment 1234
+
+   //////////////////////////
+   test1 = a == b || c || d && 34 >= 23 && !e;
+   test2 = true && false;
+   test3 = 1 + 3 * 5 + a.ttt;
+   test4 = abc(123, bcd, a.tt, t.rd);
+   test5 = ddd();
+   test6 = t2.rrr();
+   test7 = r4.get(123, ppp) + 56 > 444;
+   test8 = (Test) abc.def / (t.xyz((Test2) this.value(), super.method1()) + ddd());
+   test9 = (Test) abc.def / (t.xyz((Test2) this.value(), super.method1()) + ddd()) <= new Test3().getKey("name", null, true, 1);
+   test10 = _abcd;
+}
+
+}
+
+/* Comment level 0
+   /* Comment level 1
+      /* Comment level 2
+         /* Comment level 3
+
+         */
+         sdfjl lkjlfjsldf ljljdfsdf 
+      */
+
+      /* Comment level 2
+         /* Comment level 3 */
+      */
+   */
+*/
+
+class Dummy {
+   Dummy j;
+
+   Int dummy() {
+      Bool i;
+      Bool j;
+
+      /* i = i + j
+         i = i * j
+         ////
+         * / / * * / / *
+         Tlkjojpd sljdf jg oeriu4tds slkdjfs 
+      */
+      return i ;
+   }
+
+}
+// sdlfjojloljsofwoefweffdwef

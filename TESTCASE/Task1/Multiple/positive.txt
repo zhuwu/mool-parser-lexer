@@ -1,0 +1,54 @@
+class Main {
+
+Void main(Int i, Int a, Int b,Int d){
+   while(true){
+      b = 340 ;
+      t1 = t2 ;
+   }
+
+   /* Test test; */
+   // c = "abcdefg";
+   c = "";
+   d = "ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890abcdefghijklmnopqrstuvwxyz ~`!@#$%^&*()-_=+[]{}|;:',./<>?";
+   e = "\"\\\n\r\t\b";
+   f = "\x00\x0F\x5d\x7F\000\127\093\110\045";
+   g = "\\W3453\x7FTwfrsddf/*f45ioio*/ 34\n\t\r\"\b\x45\097'//";  // comment 1234
+
+   //////////////////////////
+}
+
+}
+
+/* Comment level 0
+   /* Comment level 1
+      /* Comment level 2
+         /* Comment level 3
+
+         */
+         sdfjl lkjlfjsldf ljljdfsdf 
+      */
+
+      /* Comment level 2
+         /* Comment level 3 */
+      */
+   */
+*/
+
+class Dummy {
+   Dummy j;
+
+   Int dummy() {
+      Bool i;
+      Bool j;
+
+      /* i = i + j
+         i = i * j
+         ////
+         * / / * * / / *
+         Tlkjojpd sljdf jg oeriu4tds slkdjfs 
+      */
+      return i ;
+   }
+
+}
+// sdlfjojloljsofwoefweffdwef

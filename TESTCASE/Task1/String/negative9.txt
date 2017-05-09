@@ -1,0 +1,29 @@
+class Main {
+
+Void main(Int i, Int a, Int b,Int d){
+   while(true){
+      b = 340 ;
+      t1 = t2 ;
+   }
+
+   c = "";
+   d = "ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890abcdefghijklmnopqrstuvwxyz ~`!@#$%^&*()-_=+[]{}|;:',./<>?";
+   e = "\"\\\n\r\t\b";
+   f = "\x00\x0F\x5d\x7F\000\127\093\110\045";
+   g = "\\W3453\x7FTwfrsddf/*f45ioio*/ 34\n\t\r\"\b\x45\097'//";
+   h = "sdfsdfsdfsdfsd\x80";
+}
+
+}
+
+class Dummy {
+   Dummy j;
+
+   Int dummy() {
+      Bool i;
+      Bool j;
+
+      return i ;
+   }
+
+}

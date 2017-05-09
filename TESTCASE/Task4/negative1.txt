@@ -1,0 +1,153 @@
+class Main {
+
+Void main(Int i, Int a, Int b,Int d){
+   while(true){
+      b = 340 ;
+      t1 = t2 ;
+   }
+
+   /* Test test; */
+   // c = "abcdefg";
+   c = "";
+   d = "ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890abcdefghijklmnopqrstuvwxyz ~`!@#$%^&*()-_=+[]{}|;:',./<>?";
+   e = "\"\\\n\r\t\b";
+   f = "\x00\x0F\x5d\x7F\000\127\093\110\045";
+   g = "\\W3453\x7FTwfrsddf/*f45ioio*/ 34\n\t\r\"\b\x45\097'//";  // comment 1234
+
+   //////////////////////////
+   test1 = a == b || c || d && 34 >= 23 && !e;
+   test2 = true && false;
+   test3 = 1 + 3 * 5 + a.ttt;
+   test4 = abc(123, bcd, a.tt, t.rd);
+   test5 = ddd();
+   test6 = t2.rrr();
+   test7 = r4.get(123, ppp) + 56 > 444;
+   test8 = (Test) abc.def / (t.xyz((Test2) this.value(), super.method1()) + ddd());
+   test9 = (Test) abc.def / (t.xyz((Test2) this, super) + ddd()) <= new Test3().getKey("name", NULL, true, 1);
+}
+
+}
+
+/* Comment level 0
+   /* Comment level 1
+      /* Comment level 2
+         /* Comment level 3
+
+         */
+         sdfjl lkjlfjsldf ljljdfsdf 
+      */
+
+      /* Comment level 2
+         /* Comment level 3 */
+      */
+   */
+*/
+
+class Dummy {
+   Dummy j;
+   Int var1;
+   private String var2;
+   private Abc var3;
+
+   Int dummy() {
+      Bool i;
+      Bool j;
+
+      /* i = i + j
+         i = i * j
+         ////
+         * / / * * / / *
+         Tlkjojpd sljdf jg oeriu4tds slkdjfs 
+      */
+      return i ;
+   }
+
+   Void method1() {
+      this.isValid(this.dummy(), new Dummy2(), var1 > var2.length + var3.getListSize());
+   }
+
+   Bool isValid(Int var1, Dummy2 var2, Bool var3) {
+      if (var1 > var2.dummy() || var3) {
+         return true;
+      } else {
+         return false;
+      }
+   }
+
+}
+
+class Dummy2 extends Dummy {
+   Int dummy() {
+      Bool i;
+      Bool j;
+
+      /* i = i + j
+         i = i * j
+         ////
+         * / / * * / / *
+         Tlkjojpd sljdf jg oeriu4tds slkdjfs 
+      */
+      return i ;
+   }
+
+   Void printHelper() {
+      Compute help;
+      help = new Compute();
+      help.chachedValue = t1 * 3;
+      t1 = help.addSquares(a,b) + help.square(i);
+      t2 = help.square(d);
+      if(t2>t1){
+         println("Square of d larger than sum of squares");
+      }
+      else{
+         println("Square of d larger than sum of squares");
+      }
+   }
+
+}
+
+class Dummy3 {
+   Int test() {
+      return 1;
+   }
+
+   private Dummy j;
+   Int a1;
+   private String a2;
+   Dummy3 var;
+}
+
+class Dummy4 extends Dummy3 {
+   Dummy j;
+
+   private Int dummy() {
+      Bool i;
+      Bool j;
+
+      /* i = i + j
+         i = i * j
+         ////
+         * / / * * / / *
+         Tlkjojpd sljdf jg oeriu4tds slkdjfs 
+      */
+      return super.j ;
+   }
+
+   Int test(Bool i, Bool j) {
+      if (i || j) {
+         return 1;
+      } else {
+         while(i) {
+            i = !(Dummy)j;
+         }
+         c = this.getCompute();
+      }
+      return this.getCompute().square(-3);
+   }
+
+}
+
+class Dummy5 extends Dummy4 {
+   // Empty class
+}
+// sdlfjojloljsofwoefweffdwef
