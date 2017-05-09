@@ -1,6 +1,6 @@
 # mOOL Parser Lexer
 
-This is the parser and lexer assignment in NUS compiler course. A Java-like language with a limited set of object oriented features called mOOL is defined in this course. The assignment is implemented in Ocaml.
+This is the parser and lexer assignment in NUS compiler course. A Java-like language with a limited set of object oriented features called mOOL is defined in this course. The assignment is implemented in Ocaml, and it constructs a parse tree for mOOL.
 
 ---
 
